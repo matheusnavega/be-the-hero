@@ -6,7 +6,7 @@ O BeTheHero √© um projeto que visa conectar pessoas que desejam fazer contribui√
 
 Esse projeto foi desenvolvido durante a Semana OmniStack 11.0 e utiliza as seguintes tecnologias:
 
-Node.js
-React
-React Native
-Expo
+- Node.js
+- React
+- React Native
+- Expo
